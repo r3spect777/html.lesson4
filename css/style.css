@@ -10,3 +10,31 @@ ul{
 a:link{
 	text-decoration: none;
 }
+h1{
+	text-align: left;
+	color: blue;
+	border: 3px solid green;
+	border-radius: 10px;
+	font-weight: normal;
+	margin-right: 800px;
+	padding-left: 15px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+}
+.htmlphoto{
+	width: 400px;
+	height: 200px;
+	padding-left: 35px;
+}
+.laptop{
+	width: 200px;
+	height: 200px;
+	margin-left: 100px;
+}
+p{
+	color: blue;
+	font-weight: bold;
+	padding-left: 35px;
+	margin-right: 700px;
+	margin-top: 70px;
+}
