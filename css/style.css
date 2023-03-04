@@ -38,3 +38,15 @@ p{
 	margin-right: 700px;
 	margin-top: 70px;
 }
+span{
+	color: blue;
+	font-size: 20px;
+	font-weight: bold;
+	padding-left: 35px;
+	margin-right: 700px;
+	margin-top: 70px;
+	border-bottom: 3px solid blue;
+	padding-left: 0px;
+	margin-left: 35px;
+}
+
