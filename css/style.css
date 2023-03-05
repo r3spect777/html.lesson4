@@ -38,7 +38,7 @@ p{
 	margin-right: 700px;
 	margin-top: 70px;
 }
-span{
+.detalurad{
 	color: blue;
 	font-size: 20px;
 	font-weight: bold;
@@ -48,5 +48,17 @@ span{
 	border-bottom: 3px solid blue;
 	padding-left: 0px;
 	margin-left: 35px;
+}
+.contact{
+	font-size: 20px;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	border-top: 1px solid black;
+	margin-top: 100px;
+}
+.imeili{
+	color: blue;
+	margin-left: 30px;
 }
 
